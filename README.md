@@ -3,9 +3,9 @@
 Final Graduation Project 
 
 ##### Salah Khaled Mohamed
-
+#### Telecommunication system to analyze and monitor the performance of LTE networks using AI
 # Problem Understanding
-Telecommunication system to analyze and monitor the performance of LTE networks using AI
+
 The telecommunications industry has grown in importance for both humans and the global economy. As a result, it has continued to grow and make strenuous efforts to advance in that field. As a result, operators' top priority these days is to provide high Quality of Service (QoS) to their customers while also considering their own interests. Drive testing collects real-time data of the RF environment when placed under a certain set of environmental and network conditions. This aims to track network performance from the perspective of users. As a result, network simulation techniques will be used to optimize network performance by creating machine learning models to evaluate network performance. In this project, an LTE network performance analysis tool will be discussed. This tool will collect wireless data, analyze it, classify it into cell state classes then suggest solutions, and predict the future throughput of each cell.
 
 ### Methodology
