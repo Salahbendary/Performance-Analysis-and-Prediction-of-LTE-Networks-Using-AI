@@ -19,5 +19,6 @@ The project consists of these steps:
 *   Evaluate the performance of the ML models and choose the best estimator to work with.
 
 ### Tools
-Software Tools: TEMS Investigation V16 - TEMS Discovery V11 - Google Colaboratory (Python) - Microsoft Excel 
-Hardware Tools: Samsung Galaxy S5 - SIM Card - Global Positioning System - Inverter - Dongle
+
+*   Software Tools: TEMS Investigation V16 - TEMS Discovery V11 - Google Colaboratory (Python) - Microsoft Excel 
+*   Hardware Tools: Samsung Galaxy S5 - SIM Card - Global Positioning System - Inverter - Dongle
