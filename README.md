@@ -1,6 +1,7 @@
 # 📊 Performance Analysis and Prediction of LTE Networks using AI 📶
 
-![LTE Network](https://th.bing.com/th/id/OIP.5NnfdYJKFWMg7P5aZAmuPAHaHN?pid=ImgDet&rs=1)
+<img src="https://th.bing.com/th/id/OIP.5NnfdYJKFWMg7P5aZAmuPAHaHN?pid=ImgDet&rs=1" alt="LTE Network" width="200">
+
 
 Welcome to the repository for my graduation project that focuses on the Performance Analysis and Prediction of LTE Networks using Artificial Intelligence! 🚀 This project earned an excellent grade "A" and showcases my proficiency in telecommunication systems and machine learning applications. 📡🤖
 
