@@ -45,6 +45,6 @@ This project is a testament to my dedication to the field of telecommunication, 
 
 ---
 Salah Bendary
-Egypt 🇪🇬
+
 
     
